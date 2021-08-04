@@ -6,12 +6,6 @@ Descrição geral da aplicação, seus objetivos, características e motivo de e
 
 ## Tecnologias Usadas
 
-- Lista
-- de
-- tecnologias
-- usadas
-- na
-- aplicação
 
 ## Serviços Externos
 
@@ -35,7 +29,3 @@ Seção destinada a explicar para novos desenvolvedores como eles podem contribu
 ### Arquitetura
 
 Explicação geral da arquitetura usada na aplicação
-
-#### Estrutura de diretórios e arquivos
-
-Explicação detalhada da escolha de estrutura de pastas e arquivos
